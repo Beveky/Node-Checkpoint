@@ -1,5 +1,4 @@
-# Ignore node_modules directory
-node_modules/
+git push
 
 # Ignore environment-specific files
 .env
